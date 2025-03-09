@@ -1,0 +1,44 @@
+.text-brown {
+    color: #a9663c;
+}
+
+.btn-brown {
+    background-color: #a9663c !important;
+    color: #fff !important;
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 100%;
+}
+
+.btn-brown:hover {
+    background-color: #5a3c2b !important;
+}
+
+.btn-back {
+    background-color: #ccc;
+    color: #333;
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.btn-back:hover {
+    background-color: #bbb;
+}
+
+.login-box {
+    width: 400px;
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
